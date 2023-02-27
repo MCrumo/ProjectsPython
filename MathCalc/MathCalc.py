@@ -317,3 +317,6 @@ def ajuda():
     '\tt_vec():   definir vector transposat\n'
     '')
     print(a)
+    
+    
+ajuda()
